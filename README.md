@@ -2,7 +2,7 @@
 A shopping website with christmas merchandises
 
 ### To-do list:
-- [ ] Header
+- [x] Header
 - [ ] Footer
 - [ ] Main page (Home)
 - [ ] Shopping page/Products list
